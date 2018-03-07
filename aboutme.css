@@ -1,0 +1,36 @@
+/* CSS: Cascading Style Sheets */
+body {
+  width: auto;
+  height: 800px;
+  background-color: powderblue;
+
+}
+  p {
+   width: 500px;
+   height: 100px;
+   margin: 20px auto;
+   font-family: verdana;
+}
+img {
+  position: static;
+  height: 100px auto;
+  width: 350px;
+  border-radius: 150px;
+}
+h1 {
+  font-family: verdana;
+  width: 500px;
+  height: 50px;
+  padding: 12px;
+  margin: 20px auto;
+}
+h2 {
+  width: 500px;
+  padding: 12px;
+  margin: 25px auto;
+  font-family: verdana;
+}
+li {
+
+  width: 500px
+s
